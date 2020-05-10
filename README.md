@@ -1,25 +1,12 @@
-# Supermarket Management System
+# Classical Snake Game (C++ Implementation)
 
-The program is based on “Supermarket management system” so, the catalogue for the system is designed on Indian products. This is implemented for small scale grocery stores.
-This also serves as electronic notebook for the grocery store. The interface which is being designed for program will be user friendly. This program will use MySQL database access.
+The program is written in C++ and implements the Snake game in a very simple and easy to understand way. It can be used to understand the basics of development.
 
 ## Getting Started
 
 Instruction
 
-```sh
-python login.py
-```
-
-```sh
-Supermarket-management-system/dist/login.exe
-```
-
-```sh
-Supermarket-management-system/setupfile/grocery-store-setup.exe
-```
-
-```
+Run the SelfSnakeGame.exe
 
 ## Contributing
 
